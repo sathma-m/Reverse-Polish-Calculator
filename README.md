@@ -11,13 +11,19 @@ operators pop and compute results without needing parentheses.
 - M.S.Mansahani — 2023t01881
 
 ## Instructions
-| ? | Enter a number (push onto stack) |
-| + | Add top two values |
-| - | Subtract (second - top) | 
-| * | Multiply top two values |
-| / | Divide (second / top) |
-| = | Display top of stack |
-| q | Quit |
+| ? | Enter a number (push onto stack) 
+
+| + | Add top two values
+
+| - | Subtract (second - top)  
+
+| * | Multiply top two values 
+
+| / | Divide (second / top) 
+
+| = | Display top of stack 
+
+| q | Quit 
 
 ## How to Compile and Run
 Developed using Code::Blocks IDE.
