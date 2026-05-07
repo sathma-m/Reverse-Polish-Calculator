@@ -33,7 +33,9 @@ Developed using Code::Blocks IDE.
 
 ## Example Usage
 ? 3  ? 5  +  =        → Result = 8.00
+
 ? 2  ? 3  +  ? 4  ? 5  +  *  =   → Result = 45.00
+
 ? 10  ? 8  ? 3  -  =  *  ? 7  +  =  → Result = 5.00, then 57.00
 
 ## Error Handling
